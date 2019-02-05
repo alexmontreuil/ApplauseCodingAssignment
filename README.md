@@ -7,9 +7,9 @@ minimum java version: JAVA 8
 Directions:
 1) create the following directory on the c:\ drive: C:\alexmontreuil
 2) place all .csv files in the above directory
-3) retrieve the executable jar file ( codingassignment-1.jar ) located in the ApplauseCodingAssignment project under the "target" folder
-4) place the jar file in any folder on the c:\ drive
-5) open a DOS console and cd to the folder where the jar file is located
+3) retrieve the zipped executable jar file ( codingassignment-1.zip ) located in the ApplauseCodingAssignment project under the "target" folder
+4) unzip it in any folder on the c:\ drive
+5) open a DOS console and cd to the folder where the file was unzipped
 6) type the following command to run the springboot app:
 "java -jar codingassignment-1.jar"
 
