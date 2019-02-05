@@ -17,8 +17,8 @@ Directions:
 
 7) open a browser and type the following url in the address bar to open the swagger page:
 http://localhost:8080/swagger-ui.html#/tester-matching
-8)click on "tester-matching" to open the tester-matching operation
-9) click on "try out" to execute the operation
+8)click on "tester-matching" to open the tester-matching 'POST' operation
+9) click on "try it out" to execute the operation
 10) enter your request payload, and click "Execute" to run the query
 
 sample request payload:
@@ -32,5 +32,7 @@ sample request payload:
   "countries": "iPhone 5,iPhone 4S",
   "devices": "US,JP"
 }
+
+11) See the results in the Response section
 
 
