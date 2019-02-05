@@ -1,0 +1,8 @@
+com\applause\codingassignment\TesterMatchConfiguration.class
+com\applause\codingassignment\service\TesterMatchService.class
+com\applause\codingassignment\controller\TesterMatching.class
+com\applause\codingassignment\domain\TesterMatchCriteria.class
+com\applause\codingassignment\service\TesterMatchService$1.class
+com\applause\codingassignment\ApplauseCodingAssignmentApplication.class
+com\applause\codingassignment\domain\TesterInfo.class
+com\applause\codingassignment\SwaggerConfig.class
