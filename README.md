@@ -8,8 +8,8 @@ Directions:
 1) create the following directory on the c:\ drive: C:\alexmontreuil
 2) place all .csv files in the above directory
 3) retrieve the zipped executable jar file ( codingassignment-1.zip ) located in the ApplauseCodingAssignment project under the "target" folder
-4) unzip it in any folder on the c:\ drive
-5) open a DOS console and cd to the folder where the file was unzipped
+4) retrieve codingassignment-1.jar from the zip file and place it in any folder on the c:\ drive
+5) open a DOS console and cd to the folder where the jar file is located
 6) type the following command to run the springboot app:
 "java -jar codingassignment-1.jar"
 
